@@ -1,0 +1,14 @@
+/SHFT.Application/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/SHFT.Api/bin/
+/SHFT.Application/bin/
+/SHFT.Domain/bin/
+/SHFT.Persistence/bin/
+/SHFT.Api/Debug/
+/SHFT.Application/Debug/
+/SHFT.Domain/Debug/
+/SHFT.Persistence/Debug/
+/SHFT.Api/obj/
+/SHFT.Application/obj/
+/SHFT.Domain/obj/
+/SHFT.Persistence/obj/
+/.idea
